@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**Muskan1124/Muskan1124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+<a href="https://github.com/Sayan191">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan191&theme=light&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/Sayan191">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sayan191&&show_icons=true&title_color=00BFA6&icon_color=F9A826&text_color=000000&bg_color=ffffff" alt="Sayan's github stats"/></a>
